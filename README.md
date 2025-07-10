@@ -1,3 +1,3 @@
-# aue-py-workshop
+# Python Workshop
 
-Das is eine PRojekt für eine Code Schulung
+Das is eine Projekt für eine Code Schulung

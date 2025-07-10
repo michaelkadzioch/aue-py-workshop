@@ -1,0 +1,10 @@
+Bitte folgende Themen erarbeiten:
+(Themen nur kennen und grob verstehen)
+
+- Osi-Modell
+- IP Protokolle ( TCP / UPD)
+- Netzprotokolle und Ports
+- http-Protokoll
+- DNS Bedeutung und Funktion
+- Domänen Bedeutung und Funktion
+- URLs Aufbau und Funktion

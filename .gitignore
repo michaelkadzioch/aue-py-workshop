@@ -1,2 +1,5 @@
-# file ingnores
+# path ignores
+__pycache__/
+
+# file ignores
 *.code-workspace

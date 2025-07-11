@@ -17,3 +17,5 @@ else:
     jsondata = json.loads(filedata)
     print(jsondata)
     print(type(jsondata))
+
+    print(jsondata['workshop'])

@@ -1,0 +1,7 @@
+Aufgabe:
+
+- Sensordaten aus datei einlesen (mit Fehlererkennung)
+- berechnung: min, max und avg-Werte
+- Ausgabe der berechnenten Wert als JSON datei
+
+Gerne mit Funktionen und Clean-Code

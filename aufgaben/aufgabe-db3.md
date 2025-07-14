@@ -8,7 +8,7 @@ Der Username soll dabei durch eine Benutzereingabe entgegen genommen werden.
 Das Programm soll folgende Fehler erkennen und eine Fehlerbehandlung ausfüheren (z.B. Ausgabe Fehlermeldung):
 
 - Datenbankbindung kann nicht Aufgebau werden
-- Datensätze können lesen werden.
+- Datensätze können nicht lesen werden.
 - Datensätze können nicht gefunden werden (z.B. User in der Datenbank nicht vorhanden)
 - JSON-Datei kann nicht geöffnet / geschrieben werden.
 

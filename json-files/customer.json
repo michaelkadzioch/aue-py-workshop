@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST-0012345",
+    "first_name": "Anna",
+    "last_name": "Musterfrau",
+    "user": "a.musterfrau",
+    "accesscode": "swordfish",
+    "date_of_birth": "1985-07-20",
+    "email": "anna.musterfrau@example.com",
+    "phone_number": "+4917612345678",
+    "address": {
+      "street": "Hauptstraße",
+      "house_number": "42",
+      "city": "Musterstadt",
+      "postal_code": "12345",
+      "country": "Deutschland"
+    },
+    "payment_methods": "paypal"
+}

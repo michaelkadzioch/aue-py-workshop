@@ -17,7 +17,7 @@ print(response.content)
 
 data = response.json()
 
-print('Aktuelle Temerpatur: ' + str(data['current']['temperature_2m']))
+print('Aktuelle Temperpatur: ' + str(data['current']['temperature_2m']))
 
 
     

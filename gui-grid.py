@@ -24,7 +24,7 @@ btn1 = tkinter.Button(appWindow, text='Button 1', bg='limegreen')
 btn2 = tkinter.Button(appWindow, text='Button 2', bg='limegreen')
 btn3 = tkinter.Button(appWindow, text='Button 3', bg='limegreen')
 btn4 = tkinter.Button(appWindow, text='Button 4', bg='limegreen')
-btn5 = tkinter.Button(appWindow, text='Button 5', bg='limegreen')
+btn5 = tkinter.Button(appWindow, text='Button 5', bg='limegreen', font=('Arial', 36))
 
 # padx und pady für den Abstand
 # sticky für das Verhalten des Button beim Verändern des Fensters

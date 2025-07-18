@@ -57,8 +57,6 @@ combobox1 = tkinter.OptionMenu(appWindow,
                                comboboxVar, 
                                'Option 1', 'Option 2', 'Option 3')
 
-combobox1.pack()
-
 
 # Window in Endlosschleife laufen lassen
 appWindow.mainloop()

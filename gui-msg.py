@@ -94,12 +94,12 @@ btn6.pack(pady=10)
 
 btn7 = tkinter.Button(appWindow, 
                        text='Frage askokcanel',
-                       command=btn6_click)
+                       command=btn7_click)
 btn7.pack(pady=10)
 
 btn8 = tkinter.Button(appWindow, 
                        text='Frage askretrycancel',
-                       command=btn6_click)
+                       command=btn8_click)
 btn8.pack(pady=10)
 
 appWindow.mainloop()
